@@ -1,0 +1,58 @@
+a:visited        {
+    color: red;
+    text-decoration: seagreen;
+                }
+a               {
+    color: greenyellow;
+    font-family: fantasy;
+    font-size: 50px;
+                }
+
+a:hover         {
+    font-family: fantasy;
+    font-size: 200px;
+    color: orange;
+                } 
+
+#welcome        {
+    text-align: center;
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-family: serif;
+    font-size:20px;
+    padding-top: 10px;
+    margin-bottom:100px;
+                }
+
+p               {
+    height: 100px;
+    color:crimson;
+    font-family: sans-serif;
+    font-size: 40px;
+    margin-bottom: 100px;
+
+                }
+
+.destinations   {
+    padding-top: 10px;
+    font-family: unset;
+    text-align: center;
+    height: 1000px;
+    background-color:rgb(0, 119, 128);
+    margin-bottom: 200px;
+                }
+
+img             {
+    width:400px;
+    border-radius: 50px;
+    border-color: yellow;
+    border-style: dashed;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+                }
+
+table           {
+    margin-top: 500px;
+}
